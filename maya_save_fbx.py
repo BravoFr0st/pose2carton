@@ -1,4 +1,4 @@
-#-------------------------------------------------------------------------------
+-------------------------------------------------------------------------------
 # Name:        maya_save_fbx.py
 # Purpose:     run this scriptin maya. Assemble predicted rig (.txt) and obj 
 #              mesh together to a FBX file
