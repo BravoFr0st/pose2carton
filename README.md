@@ -1,7 +1,9 @@
 # Pose2Carton 
 
-SJTU EE228 课程大作业/AI2612 课程作业：利用3D骨架控制3D卡通人物。
+EE228 课程大作业/AI2612 课程作业 利用3D骨架控制3D卡通人物 (https://github.com/yuzhenbo/pose2carton)
+数据组别： 3
 
+数据类型： 10组匹配 + 5组蒙皮
 ## Maya 环境配置
 - 本项目在`Windows10(21H1)`下进行，使用`Maya 2020`.
 对于Maya 2020的环境配置，考虑到本项目不涉及到在mayapy中使用额外的科学计算库(scipy,numpy)，那么个人过程如下：
@@ -39,15 +41,11 @@ SJTU EE228 课程大作业/AI2612 课程作业：利用3D骨架控制3D卡通人
  
 ## 项目结果
 
-这里放置来自你最终匹配结果的截图， 如
-
 ![image](img/with_fbx.png)
 ![image](img/without_fbx.png)
 
 
 ## 协议 
 本项目在 Apache-2.0 协议下开源.
-
 所涉及代码及数据的最终解释权归倪冰冰老师课题组所有.
 
-**Group 3**
