@@ -41,8 +41,8 @@ SJTU EE228 课程大作业/AI2612 课程作业：利用3D骨架控制3D卡通人
 
 这里放置来自你最终匹配结果的截图， 如
 
-![image](img/pose2carton.png)
-![image](img/vis.png)
+![image](img/with_fbx.png)
+![image](img/without_fbx.png)
 
 
 ## 协议 
